@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1735174654933,
+      "name": "Rodrigo Baggio",
+      "when": "2024-12-26T01:00:00.000Z"
+    }
+  ]
 }
